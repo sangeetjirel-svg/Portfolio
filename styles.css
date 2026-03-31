@@ -1,0 +1,189 @@
+.intro {
+	background-color: #1B1A55;
+	width: 750px;
+	border-radius: 20px;
+	box-shadow: 0 10px 10px #000000;
+	padding: 40px 50px;
+	margin: 150px 150px 100px 50px; 
+	text-align: left;
+}
+
+h1, h2, h3 {
+	margin: 0;
+
+}
+
+h2, h3 {
+  margin-top: 5px;
+}
+
+h1{
+	font-size: 50px;
+	font-family: "Righteous",sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+h2{
+	font-size: 35px;
+	font-family: "Oswald", sans-serif;
+	margin-top: 0px;
+	margin-bottom:1px;
+}
+
+h3{
+	font-size: 30px;
+	font-family: "Teko", sans-serif;
+	margin-top:8px;
+}
+
+
+.n { 
+	color: blue; 
+}
+.e { 
+	color: red;
+}
+.p { 
+	color: white; 
+}
+.a { 
+	color: red; 
+}
+.l { 
+	color: blue; 
+}
+
+
+h1,h2,h3{
+	display: flex;
+	margin-left: 160px;
+	color: #C5C7BC;
+
+}
+
+body{
+	background-color: 070F2B;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	
+}
+
+.short{
+	margin-top: 30px;
+	font-size: 25px;
+	color: white;
+	font-family: "Smooch Sans", sans-serif;
+	text-align: center;
+	margin-bottom:15px;
+}
+
+.quote{
+	margin-top: 200px;
+	color: white;
+	font-family: "Smooch Sans", sans-serif;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+.quo{
+	margin: 0px;
+}
+
+p{
+	color: #ffffff;
+	font-size: 20px;
+	font-family: "Smooch Sans", sans-serif;
+	text-align: center;
+	margin: 150px 70px 50px 70px;
+}
+
+.neb{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.neb:hover {
+  color: #C5C7BC;
+}
+
+header{
+	text-align: center;
+	margin: 0px;
+	padding: 50px;
+	background-color: #1B1A55;
+	color: #ffffff;
+	font-size: 10px;
+}
+
+header p {
+  margin: 10px 0;
+}
+
+.abouth{
+	margin-right: auto;
+	font-size: 20px;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+footer{
+	text-align; center;
+	padding: 20px;
+	background-color: #1B1A55;
+	color: #ffffff;
+	font-size: 10px;
+	margin-top: auto;
+	margin: 0px;
+}
+
+.sic{
+	margin: 0px 125px 0px 125px;
+	font-size: 20px;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.sic:hover{
+	color: #FFC400;
+}
+
+
+form, label{
+	margin: 0px;
+	color: #ffffff;
+	font-size: 20px;
+	font-family: "Smooch Sans", sans-serif;
+	text-align: center;
+	margin: 150px 70px 50px 70px;
+	background-color: #091413;
+}
+
+h4{
+	font-size: 50px;
+	font-family: "Teko", sans-serif;
+	text-align: center;
+	color: #ffffff;
+
+}
+
+h5{
+	font-size: 25px;
+	font-family: "Teko", sans-serif;
+	text-align: center;
+	color: #ffffff;
+}
+
+img {
+	height: 500px;
+	width: 500px;
+	aspect-ratio: 1 / 1;
+	object-fit: cover;
+}
+
+
+
+
+
+
